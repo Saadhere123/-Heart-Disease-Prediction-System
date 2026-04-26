@@ -1,4 +1,4 @@
-                                                      ❤️ Heart Disease Prediction System
+                                            ❤️ Heart Disease Prediction System
 
 A Machine Learning project that predicts whether a person is at risk of heart disease based on medical and health data. This project uses classification algorithms and includes data cleaning, Exploratory Data Analysis (EDA), model training, evaluation, and deployment with Streamlit.
 
